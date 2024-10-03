@@ -1,5 +1,4 @@
-<style>
-        * {
+      * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -71,5 +70,13 @@
         td {
             background-color: #f1f1f1;
         }
-    </style>
- 
+
+        pre {
+            background-color: rgba(220, 190, 200, 1.0);
+            border-radius: 4px;
+        }
+        
+        code {
+            font-size: 1.1rem;    
+            font-weight: 500;
+        }
